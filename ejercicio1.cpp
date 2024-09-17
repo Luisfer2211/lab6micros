@@ -67,5 +67,5 @@ int main() {
     // Imprimir la suma total
     cout << "Suma total de los numeros de Fibonacci: " << sum << endl;
 
-    return 0; 
+    return 0;
 }
